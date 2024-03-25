@@ -131,7 +131,7 @@
 
 # Web Plugins 
 
-##. Google
+. Google
    - [FastFoward](https://chromewebstore.google.com/detail/fastforward/icallnadddjmdinamnolclfjanhfoafe) - for skipping all those pesky websites ( Linkvertise, Bit.ly, Etc ).
    - [SponsorBlock](https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone) - for bypassing ads on the youtube videos for your pasting pleasure.
    - [DuckDuckGo](https://chromewebstore.google.com/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg) - blocking advertisers from knowing you paste.
