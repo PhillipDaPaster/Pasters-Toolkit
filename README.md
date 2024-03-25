@@ -3,7 +3,7 @@
 > [!NOTE]
 > all the tools you should need to paste your cheats
 
-> [!NOTE]
+> [!IMPORTANT]
 >  some of this is taken from https://github.com/TheZong/Game-Hacking/ 
 
 // i will be adding more in the future
