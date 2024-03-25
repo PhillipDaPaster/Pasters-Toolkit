@@ -8,7 +8,7 @@
 
 // i will be adding more in the future
 
-# ----< Tools >----
+# Tools
 - [HXD](https://mh-nexus.de/en/hxd/) - For turning Icons / Sounds into byte / hex code. // best paster tool to rename and re-icon cheats.
 
 - [KD Mapper](https://github.com/TheCruZ/kdmapper) - its a simple mapper that manually maps drivers.
@@ -17,10 +17,10 @@
 
 - [Process Injection Techniques](https://github.com/MahmoudZohdy/Process-Injection-Techniques) - different lists of how you can inject into a process.
 
-## --< Untity Tools >--
+## Untity Tools 
 - [Unity Explorer](https://github.com/sinai-dev/UnityExplorer) ever used darkdex in roblox well your in luck here is a very similiar concept in Unity.
 
-## --< Dumpers >--
+## Dumpers
 -[Nemesis](https://github.com/not-matthias/Nemesis) - General Dumper.
 
 -[KS Dumper](https://github.com/EquiFox/KsDumper) - General Dumper.
@@ -29,7 +29,7 @@
 
 -[A2x](https://github.com/a2x/cs2-dumper) - Cs2 related dumping.
 
-## --< Ai ofcourse >--
+## Ai ofcourse
 -[ChatGpt](https://chat.openai.com/) - Pasters Heaven.
 
 -[CodePal](https://codepal.ai/) - Pasters Heaven #2.
@@ -38,12 +38,12 @@
 
 -[Gemini](https://gemini.google.com/) - Subpair Ai.
 
-# ----< Code IDE >----
+# Code IDE
 - [Visual Studio](https://visualstudio.microsoft.com/) - if you dont know what this is then god help you.
   
 - [C-Lion](https://www.jetbrains.com/clion/) - Used by alot of companys for coding.
 
-# ----< Reversing >----
+# Reversing 
 - [Re-Toolkit]([https://pages.github.com/](https://github.com/mentebinaria/retoolkit)https://github.com/mentebinaria/retoolkit) - Gives you all the tools you would need to reverse any cheat / game with included plugins.
   
 - [Ida Pro](https://mega.nz/file/jMJgEDBJ#HXf7R9fRJ1a5jyKNB-GSW2uj-O5FMYadMVqIY4uD3Gs) - Its a good tool that is primarily a multi-platform, multi processor and a disassembler that translates machine executable code into source code for purpose of debugging and reverse engineering.
@@ -60,7 +60,7 @@
 
 - [Ghidra](https://github.com/NationalSecurityAgency/ghidra) - NSA reversing tool.
 
-# ----< Websites >----
+# Websites
 
 - [Guided Hacking](https://guidedhacking.com/) - A decent website that will teach you the basics and how to do something + provides some tools but is hidden behind a paywall.
 
@@ -68,10 +68,10 @@
 
 - [Unknown Cheats](https://www.unknowncheats.me/) - Its a pretty good when it comes to asking for help on certain things or looking at resources.
 
-## --< Unity >--
+## Unity
 - [Unity Gamehacking](https://github.com/imadr/Unity-game-hacking) - self explanatory.
 
-# ----< Youtube >----
+# Youtube 
 
 - [Cyborg Elf](https://www.youtube.com/@CyborgElf) - decent old videos from CSGO can explain some of source engine for beginners.
 
@@ -89,13 +89,13 @@
 
 - [GameJacker](https://www.youtube.com/@GameJacker/) - teaches alot about mobile game hacking ( ios / android ).
 
-## ---< Specific Videos >---
+## Specific Videos 
 - [Pasting Imgui](https://youtu.be/pbgm5hOiNek?si=uePL_pXkwH6ZBpww) - (retard teaching retards!)
 
 
-# ----< Good Selfcodes"Bases" > ----
+# Good Selfcodes"Bases"
 
-## --< Gta5 >--
+## Gta5 
 
 - [BBv1](https://www.unknowncheats.me/forum/grand-theft-auto-v/312661-bigbase.html)
 
@@ -103,13 +103,13 @@
 
 - [Nano42](https://www.unknowncheats.me/forum/grand-theft-auto-v/301091-updated-1-44-nano42-base.html)
 
-## --< Cs2 >--
+## Cs2 
 - [Asphyxia](https://github.com/maecry/asphyxia-cs2) - Decent base for a internal cheat.
 
 - [Tkazer](https://www.unknowncheats.me/) - Decent base for a external cheat but the codebase is horrid.
 
 
-# --< Good games to develop cheats for >--
+# Good games to develop cheats for
 - [Assault Cube](https://assault.cubers.net/) - No anti-cheat.
 
 - [Xonotic](https://xonotic.org/) - No anti-cheat.
@@ -121,7 +121,7 @@
 - Unreal is also easy if you have a simple understanding of cpp.
 
 
-# ----< Actual Cpp Websites > ---- // yuck am i right 
+# Actual Cpp Websites // yuck am i right 
 - [C++ Reference](https://en.cppreference.com/w/)  A decent website for learning c++.
 
 - [Learncpp](https://www.learncpp.com/) - Another decent website for learning cpp.
@@ -129,7 +129,7 @@
 - [Naresh i Tech](https://www.youtube.com/playlist?list=PLVlQHNRLflP8_DGKcMoRw-TYJJALgGu4J) - Best out of all cpp teacher.
 
 
-# ----< Web Plugins >----
+# Web Plugins 
 
 ##. Google
    - [FastFoward](https://chromewebstore.google.com/detail/fastforward/icallnadddjmdinamnolclfjanhfoafe) - for skipping all those pesky websites ( Linkvertise, Bit.ly, Etc ).
