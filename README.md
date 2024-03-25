@@ -21,22 +21,22 @@
 - [Unity Explorer](https://github.com/sinai-dev/UnityExplorer) ever used darkdex in roblox well your in luck here is a very similiar concept in Unity.
 
 ## Dumpers
--[Nemesis](https://github.com/not-matthias/Nemesis) - General Dumper.
+- [Nemesis](https://github.com/not-matthias/Nemesis) - General Dumper.
 
--[KS Dumper](https://github.com/EquiFox/KsDumper) - General Dumper.
+- [KS Dumper](https://github.com/EquiFox/KsDumper) - General Dumper.
 
--[GH-Offset Dumper](https://github.com/guided-hacking/GH-Offset-Dumper) - This dumper externall scans a process for signatures and dumps the relative offsets to a header file then you can incorporate it into your project.
+- [GH-Offset Dumper](https://github.com/guided-hacking/GH-Offset-Dumper) - This dumper externall scans a process for signatures and dumps the relative offsets to a header file then you can incorporate it into your project.
 
--[A2x](https://github.com/a2x/cs2-dumper) - Cs2 related dumping.
+- [A2x](https://github.com/a2x/cs2-dumper) - Cs2 related dumping.
 
 ## Ai ofcourse
--[ChatGpt](https://chat.openai.com/) - Pasters Heaven.
+- [ChatGpt](https://chat.openai.com/) - Pasters Heaven.
 
--[CodePal](https://codepal.ai/) - Pasters Heaven #2.
+- [CodePal](https://codepal.ai/) - Pasters Heaven #2.
 
--[Co-Pilot](https://github.com/features/copilot) - Advanced Pasters Heaven.
+- [Co-Pilot](https://github.com/features/copilot) - Advanced Pasters Heaven.
 
--[Gemini](https://gemini.google.com/) - Subpair Ai.
+- [Gemini](https://gemini.google.com/) - Subpair Ai.
 
 # Code IDE
 - [Visual Studio](https://visualstudio.microsoft.com/) - if you dont know what this is then god help you.
