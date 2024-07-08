@@ -33,7 +33,7 @@ Title/Link | Description
 Title/Link | Description
 ---- | ----
 [CheatGear](https://cheatgear.com/) | A Paid SDK dumper for the Unreal / Untiy engine.
-[Dumper-7](https://github.com/Encryqed/Dumper-7) A free alternative to CheatGear but has nearly the same functionality without the unity support.
+[Dumper-7](https://github.com/Encryqed/Dumper-7) | A free alternative to CheatGear but has nearly the same functionality without the unity support.
 
 ## Dumpers
 Title/Link | Description
