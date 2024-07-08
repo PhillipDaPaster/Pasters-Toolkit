@@ -6,8 +6,6 @@
 > [!IMPORTANT]
 >  some of this is taken from https://github.com/TheZong/Game-Hacking/ 
 
-// i will be adding more in the future
-
 # Tools
 Title/Link | Description
 ---- | ----
