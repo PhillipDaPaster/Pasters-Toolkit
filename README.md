@@ -98,6 +98,7 @@ Title/Link | Description
 [Swedz](https://www.youtube.com/@SwedishTwat) | one of the only c# youtubers that is actually smart.
 [Cazz](https://www.youtube.com/@cazz) | i personally dont recommend cazz cause he creates very unoptimized code but he still is a good teacher for learning about game hacking.
 [GameJacker](https://www.youtube.com/@GameJacker/) | teaches alot about mobile game hacking ( ios / android ).
+[loab](https://www.youtube.com/@loabical/videos) | a high quality cheat video producer teaches basic game hacking.
 
 
 ## Specific Videos 
