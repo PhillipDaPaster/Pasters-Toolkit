@@ -67,7 +67,7 @@ Title/Link | Description
 ## Reversing
 Title/Link | Description
 ---- | ----
-[Re-Toolkit](https://pages.github.com/](https://github.com/mentebinaria/retoolkit)https://github.com/mentebinaria/retoolkit) | Gives you all the tools you would need to reverse any cheat / game with included plugins.
+[Re-Toolkit](https://github.com/mentebinaria/retoolkit) | Gives you all the tools you would need to reverse any cheat / game with included plugins.
 [Ida Pro](https://mega.nz/file/jMJgEDBJ#HXf7R9fRJ1a5jyKNB-GSW2uj-O5FMYadMVqIY4uD3Gs) | Its a good tool that is primarily a multi-platform, multi processor and a disassembler that translates machine executable code into source code for purpose of debugging and reverse engineering.
 [ReClassEx](https://github.com/ajkhoury/ReClassEx) | Its a memory reverse engineering tool that can be used to generate class files for various game classes.
 [dnSpy](https://github.com/dnSpy/dnSpy) | dnSpy is a debugger and .NET assembly editor. You can use it to edit and debug assemblies even if you don't have any source code available.
